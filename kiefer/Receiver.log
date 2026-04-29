@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
-Circuit: C:\Users\kiefer\Desktop\ELECTENG_310\310 lab (just me)\kiefer\Receiver.net
-Start Time: Thu Apr 23 01:12:57 2026
+Circuit: C:\Users\kiefer\Desktop\ELECTENG_310\Project 1\ELECTENG-310-Project-1-Group-2-\kiefer\Receiver.net
+Start Time: Fri Apr 24 18:04:33 2026
 solver = Normal
 Maximum thread count: 22
 tnom = 27
@@ -26,10 +26,10 @@ Gmin = 0
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 3.138 seconds.
+Total elapsed time: 3.243 seconds.
 
 Files loaded:
-C:\Users\kiefer\Desktop\ELECTENG_310\310 lab (just me)\kiefer\Receiver.net
+C:\Users\kiefer\Desktop\ELECTENG_310\Project 1\ELECTENG-310-Project-1-Group-2-\kiefer\Receiver.net
 C:\Users\kiefer\AppData\Local\LTspice\lib\cmp\standard.dio
-C:\Users\kiefer\Desktop\ELECTENG_310\310 lab (just me)\kiefer\TLC081.mod
+C:\Users\kiefer\Desktop\ELECTENG_310\Project 1\ELECTENG-310-Project-1-Group-2-\kiefer\TLC081.mod
 
