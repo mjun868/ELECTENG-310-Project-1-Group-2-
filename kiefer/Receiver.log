@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 LTspice 26.0.1 for Windows
 Circuit: C:\Users\mikae\Documents\ELECTENG-310-Project-1-Group-2-\kiefer\Receiver.net
 Start Time: Fri Apr 24 15:20:00 2026
+=======
+LTspice 24.1.9 for Windows
+Circuit: C:\Users\kiefer\Desktop\ELECTENG_310\Project 1\ELECTENG-310-Project-1-Group-2-\kiefer\Receiver.net
+Start Time: Fri Apr 24 18:04:33 2026
+>>>>>>> 32b02b2210b40d49a282e00b78170b5a52c14888
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -11,10 +17,19 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
+<<<<<<< HEAD
 Total elapsed time: 2.520 seconds.
 
 Files loaded:
 C:\Users\mikae\Documents\ELECTENG-310-Project-1-Group-2-\kiefer\Receiver.net
 C:\Users\mikae\AppData\Local\LTspice\lib\cmp\standard.dio
 C:\Users\mikae\Documents\ELECTENG-310-Project-1-Group-2-\kiefer\TLC081.mod
+=======
+Total elapsed time: 3.243 seconds.
+
+Files loaded:
+C:\Users\kiefer\Desktop\ELECTENG_310\Project 1\ELECTENG-310-Project-1-Group-2-\kiefer\Receiver.net
+C:\Users\kiefer\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\kiefer\Desktop\ELECTENG_310\Project 1\ELECTENG-310-Project-1-Group-2-\kiefer\TLC081.mod
+>>>>>>> 32b02b2210b40d49a282e00b78170b5a52c14888
 
