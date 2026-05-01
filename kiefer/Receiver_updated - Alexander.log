@@ -1,6 +1,6 @@
 LTspice 26.0.1 for Windows
 Circuit: C:\Users\amay355\OneDrive - The University of Auckland\Desktop\ELECTENG-310-Project-1-Group-2-\kiefer\Receiver_updated - Alexander.net
-Start Time: Fri May  1 14:53:24 2026
+Start Time: Fri May  1 17:37:35 2026
 solver = Normal
 Maximum thread count: 24
 tnom = 27
@@ -14,11 +14,10 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-Warning: Simulation tolerance relaxed to achieve convergence from 2.5337497143087206e-01 to 2.5337497143087306e-01 seconds.
-Warning: Simulation tolerance relaxed to achieve convergence from 2.7890627132540130e-01 to 2.7890627132540230e-01 seconds.
-Warning: Simulation tolerance relaxed to achieve convergence from 3.3635144339922740e-01 to 3.3635144339922840e-01 seconds.
-Warning: Simulation tolerance relaxed to achieve convergence from 4.3209348332237724e-01 to 4.3209348332237824e-01 seconds.
-Total elapsed time: 194.023 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 4.2742601899765302e-02 to 4.2742601899765406e-02 seconds.
+
+Simulation stopped by user.
+Total elapsed time: 2.304 seconds.
 
 Files loaded:
 C:\Users\amay355\OneDrive - The University of Auckland\Desktop\ELECTENG-310-Project-1-Group-2-\kiefer\Receiver_updated - Alexander.net
