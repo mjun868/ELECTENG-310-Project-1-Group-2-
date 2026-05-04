@@ -1,13 +1,13 @@
 LTspice 26.0.1 for Windows
 Circuit: C:\Users\amay355\OneDrive - The University of Auckland\Desktop\ELECTENG-310-Project-1-Group-2-\kiefer\MFB - Copy.net
-Start Time: Fri May  1 18:52:39 2026
+Start Time: Sat May  2 11:04:21 2026
 solver = Normal
 Maximum thread count: 24
 tnom = 27
 temp = 27
 method = trap
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 0.275 seconds.
+Total elapsed time: 0.261 seconds.
 
 Files loaded:
 C:\Users\amay355\OneDrive - The University of Auckland\Desktop\ELECTENG-310-Project-1-Group-2-\kiefer\MFB - Copy.net

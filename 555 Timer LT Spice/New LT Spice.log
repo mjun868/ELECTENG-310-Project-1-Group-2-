@@ -1,0 +1,17 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\amay355\OneDrive - The University of Auckland\Desktop\ELECTENG-310-Project-1-Group-2-\555 Timer LT Spice\New LT Spice.net
+Start Time: Sun May  3 18:04:56 2026
+solver = Normal
+Maximum thread count: 24
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 15.464 seconds.
+
+Files loaded:
+C:\Users\amay355\OneDrive - The University of Auckland\Desktop\ELECTENG-310-Project-1-Group-2-\555 Timer LT Spice\New LT Spice.net
+C:\Users\amay355\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\amay355\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\amay355\AppData\Local\LTspice\lib\sub\NE555.sub
+
